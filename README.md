@@ -47,7 +47,7 @@ https://www.linkedin.com/feed/update/urn:li:activity:7320841685247180801/
   background-color: #e9e9e9;
 }
 
-
+```
 ## Customization Tips
 Button styling: 
 Feel free to adjust the .tab-btn CSS for your desired look and feel.
